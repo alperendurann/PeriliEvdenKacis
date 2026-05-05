@@ -1,10 +1,10 @@
 # Perili Evden Kaçış
 
 ## Proje Açıklaması
-Unity ile geliştirilen 3D korku oyunudur. Oyuncu perili bir evden kaçmaya çalışır.
+Unity ile geliştirilen 3D korku oyunudur. Oyuncu perili bir hastaneden kaçmaya çalışır.
 
 ## Oynanış
-- Oyuncu ev içinde dolaşır
+- Oyuncu hastane içinde dolaşır
 - Anahtar toplar
 - Kapıları açar
 - Hayaletlerden kaçar
