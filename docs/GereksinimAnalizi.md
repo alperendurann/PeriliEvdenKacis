@@ -1,10 +1,10 @@
-# Gereksinim Analizi - Perili Evden Kaçış
+# Gereksinim Analizi - Perili hastaneden Kaçış
 
 ## Proje Tanımı
 Bu proje Unity ile geliştirilen 3D korku oyunudur.
 
 ## Amaç
-Oyuncu perili evden kaçmalıdır.
+Oyuncu perili hastaneden kaçmalıdır.
 
 ## Özellikler
 - Hareket sistemi
