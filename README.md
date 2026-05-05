@@ -1,4 +1,4 @@
-# Perili Evden Kaçış
+# Perili hastaneden Kaçış
 
 ## Proje Açıklaması
 Unity ile geliştirilen 3D korku oyunudur. Oyuncu perili bir hastaneden kaçmaya çalışır.
