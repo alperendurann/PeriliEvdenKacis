@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Library/
 Temp/
 Obj/
@@ -6,3 +7,14 @@ Builds/
 Logs/
 UserSettings/
 MemoryCaptures/
+=======
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+.DS_Store
+>>>>>>> 0fe9aeccae808133b4e61c8b7c6dc9ab1b4b42e5
