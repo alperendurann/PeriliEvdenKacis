@@ -9,8 +9,7 @@ Oyuncu perili hastaneden kaçmalıdır.
 ## Özellikler
 - Hareket sistemi
 - Anahtar toplama
-- Kapı açma
-- Hayalet düşman
+
 
 ## Teknolojiler
 - Unity
